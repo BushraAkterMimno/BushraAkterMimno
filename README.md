@@ -1,8 +1,8 @@
 ![Web Developer](https://pbs.twimg.com/profile_banners/1810847630144196609/1738243810/1080x360)
 
-### Hi there 👋, my name is Bushra Akter Mimno
+## Hi there 👋, my name is Bushra Akter Mimno
 
-#### Web Developer
+### Web Developer
 
 Skills: MySQL/PHP/PSD to HTML/jQuery / JS/Tailwind CSS/Bootstrap / CSS / HTML 
 
