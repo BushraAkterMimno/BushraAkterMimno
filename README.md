@@ -4,7 +4,7 @@
 
 ### Web Developer
 
-Skills: MySQL / PHP / PSD to HTML / jQuery / JS / Tailwind CSS / Bootstrap / CSS / HTML 
+Skills: MySQL / PHP / PSD to HTML / Figma to HTML / jQuery / JS / Tailwind CSS / Bootstrap / CSS / HTML 
 
 - 🌱 I’m currently learning PHP, MySQL 
 
