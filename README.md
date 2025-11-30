@@ -1,16 +1,84 @@
-![Web Developer](https://pbs.twimg.com/profile_banners/1810847630144196609/1738243810/1080x360)
+<!-- ===============================
+     🌟 GitHub Profile — Bushra Akter Mimno
+================================ -->
 
-# Hi there 👋, My Name Is Bushra Akter Mimno
+<img src="https://pbs.twimg.com/profile_banners/1810847630144196609/1738243810/1080x360" width="100%" />
 
-### Web Developer
+<h1 align="center">Hi there 👋, I'm <strong>Bushra Akter Mimno</strong></h1>
+<h3 align="center">💻 Web Developer</h3>
 
-Skills: MySQL / PHP / PSD to HTML / Figma to HTML / React / jQuery / JS / Tailwind CSS / Bootstrap / CSS / HTML 
+<p align="center">
+I create modern, responsive and user-friendly websites using the latest web technologies.<br>
+I love coding, designing and learning new technologies every day.
+</p>
 
-- 🌱 I’m currently learning React 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BushraAkterMimno)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/bushraaktermimno/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bushra.akter.mimno.2024)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Bushra3690) 
+## 🚀 Skills & Technologies
 
+**Frontend:**  
+HTML5 • CSS3 • Bootstrap • Tailwind CSS • JavaScript • jQuery • React  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BushraAkterMimno)](https://github.com/anuraghazra/github-readme-stats)
+**Backend:**  
+PHP • MySQL  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BushraAkterMimno&show_icons=true)  
+**Others:**  
+PSD to HTML • Figma to HTML • Responsive Web Design  
+
+---
+
+## 🌱 Currently Learning  
+- React (JavaScript Framework)  
+- Advanced Frontend Techniques  
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/BushraAkterMimno" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="35" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/bushraaktermimno/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/bushra.akter.mimno.2024" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="35" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://twitter.com/Bushra3690" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="35" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BushraAkterMimno&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BushraAkterMimno&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak (Working)
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=BushraAkterMimno&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BushraAkterMimno&theme=tokyo-night">
+</p>
+
+---
+
+## ✨ Thank You for Visiting My Profile!  
+Feel free to check out my projects and connect with me. 😊
