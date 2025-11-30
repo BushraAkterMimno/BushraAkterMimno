@@ -65,7 +65,7 @@ PSD to HTML • Figma to HTML • Responsive Web Design
 
 ---
 
-## 🔥 GitHub Streak (Working)
+## 🔥 GitHub Streak 
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=BushraAkterMimno&theme=tokyonight" />
