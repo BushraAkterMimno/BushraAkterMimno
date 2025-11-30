@@ -7,11 +7,11 @@
 <h1 align="center">Hi there 👋, I'm <strong>Bushra Akter Mimno</strong></h1>
 <h3 align="center">💻 Web Developer</h3>
 
-<p align="center">
+<div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&lines=Web+Developer;Frontend+Designer;React+Learner;Passionate+Coder)
 
-</p>
+</div>
 
 <p align="center">
 I create modern, responsive and user-friendly websites using the latest web technologies.<br>
