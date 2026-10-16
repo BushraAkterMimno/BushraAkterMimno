@@ -1,165 +1,123 @@
+<!-- ===============================
+     🌟 GitHub Profile — Bushra Akter Mimno
+================================ -->
+
+<img src="https://pbs.twimg.com/profile_banners/1810847630144196609/1738243810/1080x360" width="100%" />
+
+<h1 align="center">Hi there 👋, I'm <strong>Bushra Akter Mimno</strong></h1>
+<h3 align="center">💻 Web Developer</h3>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:7c3aed,100:f9a8d4&height=200&section=header&text=Bushra%20Akter%20Mimno&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Frontend%20Designer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
-
-<a href="https://github.com/BushraAkterMimno">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+I'm+Bushra+Akter+Mimno;Web+Developer;Frontend+Designer;React+Learner;Passionate+Coder+%F0%9F%92%BB" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="./profile.jpg" alt="Bushra Akter Mimno" width="240" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/bushraaktermimno/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://www.facebook.com/bushra.akter.mimno.2024"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-&nbsp;
-<a href="https://twitter.com/Bushra3690"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-&nbsp;
-<a href="https://github.com/BushraAkterMimno"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=BushraAkterMimno&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views" />
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&lines=Web+Developer;Frontend+Designer;React+Learner;Passionate+Coder)
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=BushraAkterMimno&theme=tokyonight&hide_border=true&border_radius=16" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=BushraAkterMimno&theme=default&hide_border=true&border_radius=16" />
-  <img src="https://streak-stats.demolab.com?user=BushraAkterMimno&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub Streak Stats" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=BushraAkterMimno&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&theme=tokyonight&card_width=500" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=BushraAkterMimno&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&title_color=7C3AED&icon_color=38BDF8&text_color=475569&bg_color=FFFFFF&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BushraAkterMimno&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&theme=tokyonight&card_width=500" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BushraAkterMimno&layout=compact&langs_count=8&hide_border=true&border_radius=16&theme=tokyonight&card_width=500" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BushraAkterMimno&layout=compact&langs_count=8&hide_border=true&border_radius=16&title_color=7C3AED&text_color=475569&bg_color=FFFFFF&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BushraAkterMimno&layout=compact&langs_count=8&hide_border=true&border_radius=16&theme=tokyonight&card_width=500" alt="Top Languages" />
-</picture>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-</div>
-
----
-
-## 🌸 About Me
-
-Hi, I'm **Bushra Akter Mimno**, a **Web Developer** who loves building **modern, responsive and user-friendly websites** with the latest web technologies.
-
-I enjoy coding, designing, and learning something new every single day. ✨
-
-### 💡 What I Do
-
-| | Focus | Details |
-| :-: | ------------------------- | ---------------------------------------------------------- |
-| 🎨 | **Frontend Design** | Clean, modern and eye-catching user interfaces |
-| 📱 | **Responsive Websites** | Layouts that look great on every screen size |
-| 🖼️ | **PSD to HTML** | Pixel-perfect conversion from PSD designs |
-| 🧩 | **Figma to HTML** | Turning Figma designs into real, working websites |
-| ⚛️ | **React** | Building component-based apps (currently learning) |
-| ⚙️ | **Backend Basics** | Dynamic websites with PHP, Node.js and MySQL |
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react" />
-</p>
-
-### ⚙️ Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,mysql" />
-</p>
-
-### 🧩 Design & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ps,git,github" />
-</p>
-
-### 🎖️ Skill Badges
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<p align="center">
+I create modern, responsive and user-friendly websites using the latest web technologies.<br>
+I love coding, designing and learning new technologies every day.
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Skills & Technologies
 
-<div align="center">
+### 🌐 Frontend  
+HTML5 • CSS3 • Bootstrap • Tailwind CSS • JavaScript • jQuery • React  
 
-| 📚 Topic | 🎯 Goal |
-| ------------------------------------ | ------------------------------------------------- |
-| **React** (JavaScript Framework) | Build fast, component-based user interfaces |
-| **Advanced Frontend Techniques** | Write cleaner, smarter and more polished UI code |
+### ⚙ Backend  
+PHP • MySQL  
 
-</div>
+### 🧩 Others  
+PSD to HTML • Figma to HTML • Responsive Web Design  
+
+---
+
+## 🎖️ Skills Badges
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🧭 Currently Learning  
+- React (JavaScript Framework)  
+- Advanced Frontend Techniques  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/BushraAkterMimno" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="35" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/bushraaktermimno/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/bushra.akter.mimno.2024" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="35" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://twitter.com/Bushra3690" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="35" />
+  </a>
+</p>
+
+---
+
+## 👀 Profile Visitors  
+![Profile Views](https://komarev.com/ghpvc/?username=BushraAkterMimno&color=blueviolet)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=BushraAkterMimno&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=BushraAkterMimno&theme=flat&no-frame=false&no-bg=true&margin-w=15" />
-  <img src="https://github-profile-trophy.vercel.app/?username=BushraAkterMimno&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BushraAkterMimno&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15" />
+</p>
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BushraAkterMimno&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BushraAkterMimno&bg_color=0D1117&color=38BDF8&line=7C3AED&point=F9A8D4&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BushraAkterMimno&bg_color=FFFFFF&color=7C3AED&line=38BDF8&point=EC4899&area=true&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BushraAkterMimno&theme=tokyo-night" width="100%" alt="GitHub activity graph" />
-</picture>
-
-</div>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BushraAkterMimno&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-<div align="center">
+## 🔥 GitHub Streak
 
-### `Design with passion. Code with care. Keep learning every day.` 🌷
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=BushraAkterMimno&theme=tokyonight" />
+</p>
 
-**✨ Thank you for visiting my profile! Feel free to explore my repositories and connect with me. 😊**
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:7c3aed,100:f9a8d4&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
+## 🏁 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BushraAkterMimno&theme=tokyo-night">
+</p>
 
-</div>
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## ✨ Thank You for Visiting My Profile!  
+Feel free to explore my repositories and connect with me. 😊
