@@ -1,39 +1,66 @@
-<!-- ===============================
-     🌟 GitHub Profile — Bushra Akter Mimno
-================================ -->
+<div align="center">
 
 <img src="https://pbs.twimg.com/profile_banners/1810847630144196609/1738243810/1080x360" width="100%" />
 
-<h1 align="center">Hi there 👋, I'm <strong>Bushra Akter Mimno</strong></h1>
-<h3 align="center">💻 Web Developer</h3>
+<h1>Hi there 👋, I'm <strong>Bushra Akter Mimno</strong></h1>
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&lines=Web+Developer;Frontend+Designer;React+Learner;Passionate+Coder)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Web+Developer;Frontend+Designer;React+Learner;Passionate+Coder)](https://git.io/typing-svg)
+
+<img src="./profile.jpg" alt="Bushra Akter Mimno" width="260" />
 
 </div>
 
-<p align="center">
-I create modern, responsive and user-friendly websites using the latest web technologies.<br>
+<br>
+
+<div align="center">
+
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=BushraAkterMimno&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BushraAkterMimno&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&card_width=500)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BushraAkterMimno&layout=compact&theme=tokyonight&hide_border=true&card_width=500)
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BushraAkterMimno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bushraaktermimno/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bushra.akter.mimno.2024)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bushra3690)
+
+</div>
+
+---
+
+## About
+
+I am a **Web Developer** who creates modern, responsive and user-friendly websites using the latest web technologies.
+
 I love coding, designing and learning new technologies every day.
-</p>
+
+### Engineering Focus
+
+- Web Development
+- Frontend Design
+- Responsive Web Design
+- PSD to HTML & Figma to HTML
+- React (Currently Learning)
 
 ---
 
-## 🚀 Skills & Technologies
+## Tech Stack
 
-### 🌐 Frontend  
-HTML5 • CSS3 • Bootstrap • Tailwind CSS • JavaScript • jQuery • React  
+### Frontend
 
-### ⚙ Backend  
-PHP • MySQL  
+[![](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react)](https://skillicons.dev)
 
-### 🧩 Others  
-PSD to HTML • Figma to HTML • Responsive Web Design  
+### Backend & Databases
 
----
+[![](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
 
-## 🎖️ Skills Badges
+### Others
+
+`PSD to HTML` `Figma to HTML` `Responsive Web Design`
+
+### Skills Badges
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,40 +73,14 @@ PSD to HTML • Figma to HTML • Responsive Web Design
 
 ---
 
-## 🧭 Currently Learning  
-- React (JavaScript Framework)  
-- Advanced Frontend Techniques  
+## Currently Learning
+
+- React (JavaScript Framework)
+- Advanced Frontend Techniques
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/BushraAkterMimno" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="35" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/bushraaktermimno/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.facebook.com/bushra.akter.mimno.2024" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="35" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://twitter.com/Bushra3690" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="35" />
-  </a>
-</p>
-
----
-
-## 👀 Profile Visitors  
-![Profile Views](https://komarev.com/ghpvc/?username=BushraAkterMimno&color=blueviolet)
-
----
-
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BushraAkterMimno&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15" />
@@ -87,37 +88,24 @@ PSD to HTML • Figma to HTML • Responsive Web Design
 
 ---
 
-## 📊 GitHub Stats
+## Contribution Activity
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BushraAkterMimno&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BushraAkterMimno&layout=compact&theme=tokyonight" />
-</p>
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BushraAkterMimno&theme=tokyo-night)
 
 ---
 
-## 🔥 GitHub Streak
+## Profile Visitors
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=BushraAkterMimno&theme=tokyonight" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=BushraAkterMimno&color=blueviolet)
 
 ---
 
-## 🏁 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BushraAkterMimno&theme=tokyo-night">
-</p>
+<div align="center">
 
----
+### `Design with passion. Code with care. Keep learning every day.`
 
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:7c3aed,100:312e81&height=120&section=footer&animation=fadeIn)
 
----
+**✨ Thank you for visiting my profile! Feel free to explore my repositories and connect with me. 😊**
 
-## ✨ Thank You for Visiting My Profile!  
-Feel free to explore my repositories and connect with me. 😊
+</div>
